@@ -46,7 +46,7 @@ def play(songs)
   end
 
   if song == nil
-    puts "Inavlid input, please try again"
+    puts "Invalid input, please try again"
   else
     puts song
   end
